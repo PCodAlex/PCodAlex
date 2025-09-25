@@ -1,13 +1,20 @@
-# 👋 Hey, I'm Akash Samanta  
+<!-- Profile Header -->
+<h1 align="center">👋 Hey, I'm Akash Samanta</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=6AF7F7&center=true&vCenter=true&width=800&lines=🚀+Java+Full+Stack+Developer;💻+Software+Engineer;🌐+Passionate+Tech+Explorer;⚡+Transforming+Ideas+into+Code" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Java+Full+Stack+Developer;💻+Software+Engineer;🌐+Tech+Explorer;⚡+Transforming+Ideas+into+Code" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00E6FF&height=120&section=header"/>
+</p>
 
 ---
 
 ## 🚀 About Me  
-I’m a **Java Full Stack Developer** passionate about building **scalable, secure, and beautiful apps**. I thrive in turning **ideas into full-fledged products** — from **predictive AI systems** to **responsive UI/UX web apps**.  
+
+I’m a **Java Full Stack Developer** passionate about building **scalable, secure, and beautiful apps**.  
+I thrive in turning **ideas into full-fledged products** — from **predictive AI systems** to **responsive UI/UX web apps**.  
 
 - 🔭 Currently enhancing **Spring Boot | React.js | Data Analysis**  
 - 🌱 Exploring **Microservices & Cloud Technologies**  
@@ -20,14 +27,14 @@ I’m a **Java Full Stack Developer** passionate about building **scalable, secu
 ## 🛠️ Tech Stack  
 
 ### 🖥️ Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)  
 ![HTML5](https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ### ⚙️ Frameworks & Libraries  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-00FF88?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-00FF88?style=for-the-badge&logo=spring-boot&logoColor=black)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Hibernate](https://img.shields.io/badge/Hibernate-BCA878?style=for-the-badge&logo=hibernate&logoColor=black)  
 
@@ -45,14 +52,18 @@ I’m a **Java Full Stack Developer** passionate about building **scalable, secu
 
 ## 📊 GitHub Analytics  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00E6FF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00FF" height="180"/>
-</div>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkashSamanta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00E6FF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSamanta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00FF" height="180"/>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=15&row=1&column=6" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSamanta&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00E6FF" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkashSamanta&theme=radical&no-frame=true&margin-w=15&row=1&column=6" />
+</p>
 
 ---
 
@@ -62,7 +73,7 @@ I’m a **Java Full Stack Developer** passionate about building **scalable, secu
 AI-powered system predicting flood risks with **85%+ accuracy**.  
 **Tech:** Python, ML, Data Visualization  
 
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/flood-prediction-system)  
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AkashSamanta/flood-prediction-system)  
 
 ---
 
@@ -70,7 +81,7 @@ AI-powered system predicting flood risks with **85%+ accuracy**.
 Full-stack shopping portal with **secure authentication & payments**.  
 **Tech:** Java, Spring Boot, React, MySQL  
 
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/ecommerce-platform)  
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AkashSamanta/ecommerce-platform)  
 
 ---
 
@@ -78,7 +89,7 @@ Full-stack shopping portal with **secure authentication & payments**.
 Lightweight web tool for **dynamic QR code generation**.  
 **Tech:** JavaScript, HTML, CSS  
 
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/qr-code-tool)  
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AkashSamanta/qr-code-tool)  
 
 ---
 
@@ -86,22 +97,22 @@ Lightweight web tool for **dynamic QR code generation**.
 Personal site showcasing **projects & achievements**.  
 **Tech:** HTML, CSS, JavaScript  
 
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/portfolio-site)  
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AkashSamanta/portfolio-site)  
 
 ---
 
 ## 📫 Connect With Me  
 
-<div align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="center">
+  <a href="https://linkedin.com/in/akash-samanta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:akashayushsamanta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FF6B81?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-</div>  
+  <a href="https://akashsamanta.dev"><img src="https://img.shields.io/badge/Portfolio-FF6B81?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>  
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00FF88&section=footer"/>
-</div>  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00FF88,100:00E6FF&section=footer"/>
+</p>
 
-⭐ *Crafted with passion by [Akash Samanta](https://github.com/YOUR_USERNAME)*  
+⭐ *Crafted with passion by [Akash Samanta](https://github.com/AkashSamanta)*  
