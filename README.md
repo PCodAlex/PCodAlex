@@ -1,9 +1,9 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hello Developer </>, I'm Akash Samanta</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Java+Full+Stack+Developer;💻+Software+Engineer;🌐+Tech+Explorer;⚡+Transforming+Ideas+into+Code" alt="Typing SVG" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00E6FF&height=120&section=header"/>
@@ -29,33 +29,61 @@ I thrive in turning **ideas into full-fledged products** — from **predictive A
 <p align="center">
   
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" title="Java — Backend Language"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript — Web Development"/>
-  <img src="https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5 — Markup Language"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3 — Styling the Web"/>
-  <img src="https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" title="SQL — Database Query Language"/>
-  
+  <a href="https://www.java.com/" target="_blank" title="Java — Backend Language">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript — Web Development">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5 — Markup Language">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3 — Styling the Web">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" title="SQL — Database Query Language">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="60" height="60"/>
+  </a>
+
   <br/><br/>
-  
+
   <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Spring_Boot-00FF88?style=for-the-badge&logo=spring-boot&logoColor=black" alt="Spring Boot" title="Spring Boot — Java Framework"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" title="React — Frontend Library"/>
-  <img src="https://img.shields.io/badge/Hibernate-BCA878?style=for-the-badge&logo=hibernate&logoColor=black" alt="Hibernate" title="Hibernate — ORM Framework"/>
-  
+  <a href="https://spring.io/projects/spring-boot" target="_blank" title="Spring Boot — Java Framework">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" title="React — Frontend Library">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+  </a>
+  <a href="https://hibernate.org/" target="_blank" title="Hibernate — ORM Framework">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="60" height="60"/>
+  </a>
+
   <br/><br/>
-  
+
   <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-00648B?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL — Relational Database"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0088CE?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL — Open Source Database"/>
-  
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL — Relational Database">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL — Open Source Database">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
+  </a>
+
   <br/><br/>
-  
+
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub — Version Control"/>
-  <img src="https://img.shields.io/badge/IntelliJ-FF0077?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" title="IntelliJ IDEA — IDE"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" title="VS Code — Code Editor"/>
-  <img src="https://img.shields.io/badge/Postman-FE6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" title="Postman — API Testing"/>
-  
+  <a href="https://github.com/" target="_blank" title="GitHub — Version Control">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" title="IntelliJ IDEA — IDE">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="60" height="60"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code — Code Editor">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" title="Postman — API Testing">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60"/>
+  </a>
+
 </p>
 
 ## 📊 GitHub Analytics  
