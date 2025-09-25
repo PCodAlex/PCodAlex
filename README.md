@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey, I'm Akash Samanta</h1>
+<h1 align="center">👋 Hello Developer </>, I'm Akash Samanta</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Java+Full+Stack+Developer;💻+Software+Engineer;🌐+Tech+Explorer;⚡+Transforming+Ideas+into+Code" alt="Typing SVG" />
@@ -26,29 +26,37 @@ I thrive in turning **ideas into full-fledged products** — from **predictive A
 
 ## 🛠️ Tech Stack  
 
-### 🖥️ Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=mysql&logoColor=white)  
-
-### ⚙️ Frameworks & Libraries  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-00FF88?style=for-the-badge&logo=spring-boot&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Hibernate](https://img.shields.io/badge/Hibernate-BCA878?style=for-the-badge&logo=hibernate&logoColor=black)  
-
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-00648B?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0088CE?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-### 🛠️ Tools & IDEs  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-FF0077?style=for-the-badge&logo=intellij-idea&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FE6C37?style=for-the-badge&logo=postman&logoColor=white)  
-
----
+<p align="center">
+  
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" title="Java — Backend Language"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript — Web Development"/>
+  <img src="https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5 — Markup Language"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3 — Styling the Web"/>
+  <img src="https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" title="SQL — Database Query Language"/>
+  
+  <br/><br/>
+  
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Spring_Boot-00FF88?style=for-the-badge&logo=spring-boot&logoColor=black" alt="Spring Boot" title="Spring Boot — Java Framework"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" title="React — Frontend Library"/>
+  <img src="https://img.shields.io/badge/Hibernate-BCA878?style=for-the-badge&logo=hibernate&logoColor=black" alt="Hibernate" title="Hibernate — ORM Framework"/>
+  
+  <br/><br/>
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-00648B?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL — Relational Database"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0088CE?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL — Open Source Database"/>
+  
+  <br/><br/>
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub — Version Control"/>
+  <img src="https://img.shields.io/badge/IntelliJ-FF0077?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" title="IntelliJ IDEA — IDE"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" title="VS Code — Code Editor"/>
+  <img src="https://img.shields.io/badge/Postman-FE6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" title="Postman — API Testing"/>
+  
+</p>
 
 ## 📊 GitHub Analytics  
 
