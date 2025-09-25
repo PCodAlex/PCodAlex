@@ -1,9 +1,4 @@
-<!-- Profile Header -->
 <h1 align="center">👋 Hello Developer </>, I'm Akash Samanta</h1>
-
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Java+Full+Stack+Developer;💻+Software+Engineer;🌐+Tech+Explorer;⚡+Transforming+Ideas+into+Code" alt="Typing SVG" />
-</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00E6FF&height=120&section=header"/>
@@ -16,19 +11,12 @@
 I’m a **Java Full Stack Developer** passionate about building **scalable, secure, and beautiful apps**.  
 I thrive in turning **ideas into full-fledged products** — from **predictive AI systems** to **responsive UI/UX web apps**.  
 
-- 🔭 Currently enhancing **Spring Boot | React.js | Data Analysis**  
-- 🌱 Exploring **Microservices & Cloud Technologies**  
-- 👯 Open to **Java-based Web Apps + AI/ML collaborations**  
-- 💬 Ask me about **Java | Spring Boot | React | MySQL | Full Stack Development**  
-- ⚡ Fun Fact: *I started in Mechanical Engineering and found my home in Software Development!*  
-
----
+- 🔭 Currently enhancing **Spring Boot | React.js | Data Analysis** - 🌱 Exploring **Microservices & Cloud Technologies** - 👯 Open to **Java-based Web Apps + AI/ML collaborations** - 💬 Ask me about **Java | Spring Boot | React | MySQL | Full Stack Development** - ⚡ Fun Fact: *I started in Mechanical Engineering and found my home in Software Development!* ---
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
+<div align="center">
   
-  <!-- Languages -->
   <a href="https://www.java.com/" target="_blank" title="Java — Backend Language">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
   </a>
@@ -45,9 +33,6 @@ I thrive in turning **ideas into full-fledged products** — from **predictive A
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="60" height="60"/>
   </a>
 
-  <br/><br/>
-
-  <!-- Frameworks -->
   <a href="https://spring.io/projects/spring-boot" target="_blank" title="Spring Boot — Java Framework">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>
   </a>
@@ -58,9 +43,6 @@ I thrive in turning **ideas into full-fledged products** — from **predictive A
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="60" height="60"/>
   </a>
 
-  <br/><br/>
-
-  <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" title="MySQL — Relational Database">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
   </a>
@@ -68,9 +50,6 @@ I thrive in turning **ideas into full-fledged products** — from **predictive A
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
   </a>
 
-  <br/><br/>
-
-  <!-- Tools -->
   <a href="https://github.com/" target="_blank" title="GitHub — Version Control">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
   </a>
@@ -84,7 +63,7 @@ I thrive in turning **ideas into full-fledged products** — from **predictive A
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60"/>
   </a>
 
-</p>
+</div>
 
 ## 📊 GitHub Analytics  
 
@@ -151,4 +130,4 @@ Personal site showcasing **projects & achievements**.
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00FF88,100:00E6FF&section=footer"/>
 </p>
 
-⭐ *Crafted with passion by [Akash Samanta](https://github.com/AkashSamanta)*  
+⭐ *Crafted with passion by [Akash Samanta](https://github.com/AkashSamanta)*
