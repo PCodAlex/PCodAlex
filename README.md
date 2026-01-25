@@ -90,23 +90,21 @@ Backend Architecture
   <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&text=LIVE%20BUILD%20MODE%20⚡&fontSize=35" />
 </p>
 
-```yaml
-name: Generate Neural Graph
+<!-- GitHub Contributions Calendar -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PCodAlex&theme=tokyonight&utcOffset=5.5" alt="Contributions Calendar" />
+</p>
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
+<!-- GitHub Activity Calendar - This is the actual contribution calendar -->
+<p align="center">
+  <img src="https://github-readme-activity-calendar.vercel.app/api?username=PCodAlex&theme=tokyo-night&custom_title=GitHub%20Contribution%20Calendar&hide_border=true&count_private=true" alt="GitHub Contribution Calendar" width="90%" />
+</p>
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: ${{ github.repository_owner }}
-          plugins: activity, habits
-```
+<!-- Optional: GitHub Contribution Chart -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PCodAlex/PCodAlex/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PCodAlex/PCodAlex/main/profile-3d-contrib/profile-south-america.svg">
+    <img src="https://raw.githubusercontent.com/PCodAlex/PCodAlex/main/profile-3d-contrib/profile-south-america.svg" alt="3D Contribution Graph" width="100%">
+  </picture>
+</p>
