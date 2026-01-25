@@ -67,18 +67,26 @@ console.log("System initialized ⚡");
   }
 ]
 ```
+## 📊 LeetCode Stats
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/AkashSamanta?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 **Contest Rating:** 1,416  
-**Total Solved:** 130/3821  
-**Easy:** 109/922 | **Medium:** 15/1996 | **Hard:** 6/903  
 **Global Ranking:** 11,26,396 (619,584/818,912)  
-**Top Percentile:** 76.08%  
-**Attended Contests:** 1 (Jan 2026)  
-**Badges:** 0  
-**Activity:** 214 submissions | 22 active days | Max streak: 19
+**Top:** 76.08%  
+**Attended:** 1 contest (Jan 2026)  
+
+**Problems Solved:** 130/3821  
+**Easy:** 109/922  
+**Medium:** 15/1996  
+**Hard:** 6/903  
+
+**Badges:** 0 (🔒 Jan LeetCode Challenge)  
+**Activity:** 214 submissions in past year  
+**Active Days:** 22  
+**Max Streak:** 19
 
 ```txt
 Java Advanced
