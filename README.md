@@ -119,23 +119,4 @@ Backend Architecture
   }
   ```
   
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
-  
-  <!-- Matrix Rain Animation -->
-  <pre align="center" style="background: #000; color: #0F0; padding: 10px; border-radius: 5px;">
-  <code>
-  🎮 <span style="color: #0FF;">GAME MODE: ACTIVE</span>
-  
-  01001000 01100101 01101100 01101100 01101111 
-  01010111 01101111 01110010 01101100 01100100
-  
-  █░░█ █▀▀█ █░░ █░░ ░▀░ █▀▀▄ █▀▀█ 
-  █▄▄█ █▄▄▀ █░░ █░░ ▀█▀ █░░█ █▄▄▀ 
-  ▄▄▄█ ▀░▀▀ ▀▀▀ ▀▀▀ ▀▀▀ ▀░░▀ ▀░▀▀
-  
-  ╔════════════════════════════════╗
-  ║  SCORE: ∞      LEVEL: GOD      ║
-  ║  LIVES: ♥♥♥    CODE: ACTIVE    ║
-  ╚════════════════════════════════╝
-  </code>
-  </pre>
+  <img src="https://raw.githubusercontent.com/akash/akash/snake/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
