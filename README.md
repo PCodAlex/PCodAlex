@@ -24,18 +24,6 @@ console.log("System initialized ⚡");
   <img src="https://github-readme-stats.vercel.app/api?username=PCodAlex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PCodAlex&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PCodAlex&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/PCodAlex/PCodAlex/blob/output/metrics.svg" />
-</p>
-
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
