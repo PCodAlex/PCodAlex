@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=🤖%20Hey%20there%20👋,%20I'm%20Akash%20Samanta%20🤖&fontSize=50&animation=fadeIn&desc=🚀%20Full-Stack%20Developer%20|%20💻%20Tech%20Enthusiast%20|%20🤖%20AI%20Powered%20|%20🇮🇳%20India&descAlignY=70&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffff,100:0000ff&height=300&text=Hey%20there%20👋,%20I'm%20Akash%20Samanta&fontSize=50&animation=fadeIn&desc=🚀%20Full-Stack%20Developer%20|%20💻%20Tech%20Enthusiast%20|%20🤖%20AI%20Powered%20|%20🇮🇳%20India&descAlignY=83&descAlign=50&stroke=00ffff&strokeWidth=3" alt="Neon Robot Header" />
 </p>
 
 <p align="center">
