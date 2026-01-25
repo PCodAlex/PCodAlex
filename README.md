@@ -67,11 +67,139 @@ console.log("System initialized ⚡");
   }
 ]
 ```
-## 📊 LeetCode Stats
+<div align="center">
 
-![LeetCode Rating](https://img.shields.io/badge/Rating-1,416-ffa116?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-130/3821-00b8a3?style=for-the-badge)
-![Global Rank](https://img.shields.io/badge/Rank-11,26,396-8a2be2?style=for-the-badge)
+<div style="
+    border: 1px solid #30363d;
+    border-radius: 10px;
+    padding: 24px;
+    background: #0d1117;
+    width: 500px;
+    margin: 0 auto;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+    color: #c9d1d9;
+">
+
+<!-- Header with LeetCode Logo -->
+<div style="display: flex; align-items: center; margin-bottom: 20px; padding-bottom: 15px; border-bottom: 1px solid #30363d;">
+    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="40" height="40" style="margin-right: 12px;">
+    <div>
+        <div style="font-size: 22px; font-weight: 600; color: #ffffff;">LeetCode Stats</div>
+        <div style="font-size: 14px; color: #8b949e;">
+            <strong style="color: #c9d1d9;">AkashSamanta</strong>
+        </div>
+    </div>
+</div>
+
+<!-- Main Stats Row -->
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    
+    <!-- Left Column: Contest Stats -->
+    <div style="flex: 1; padding-right: 20px; border-right: 1px solid #30363d;">
+        <div style="color: #ffa116; font-weight: 600; font-size: 16px; margin-bottom: 8px;">Contest Rating</div>
+        <div style="font-size: 32px; font-weight: bold; color: #ffffff; margin-bottom: 4px;">1,416</div>
+        
+        <div style="margin-top: 20px; color: #8b949e; font-size: 13px;">Global Ranking</div>
+        <div style="font-size: 14px; color: #c9d1d9;">11,26,396</div>
+        <div style="font-size: 12px; color: #8b949e;">619,584/818,912</div>
+        
+        <div style="margin-top: 15px; color: #8b949e; font-size: 13px;">Attended</div>
+        <div style="font-size: 14px; color: #c9d1d9;">1</div>
+        <div style="font-size: 12px; color: #8b949e;">Jan 2026</div>
+    </div>
+    
+    <!-- Middle Column: Top % and Badges -->
+    <div style="flex: 1; padding: 0 20px; border-right: 1px solid #30363d;">
+        <div style="color: #ffa116; font-weight: 600; font-size: 16px; margin-bottom: 8px;">Top</div>
+        <div style="font-size: 32px; font-weight: bold; color: #ffffff; margin-bottom: 4px;">76.08%</div>
+        
+        <div style="margin-top: 40px; color: #ffa116; font-weight: 600; font-size: 16px; margin-bottom: 8px;">Badges</div>
+        <div style="font-size: 32px; font-weight: bold; color: #ffffff;">0</div>
+    </div>
+    
+    <!-- Right Column: Problems Solved -->
+    <div style="flex: 1; padding-left: 20px;">
+        <div style="color: #ffa116; font-weight: 600; font-size: 16px; margin-bottom: 8px;">Solved</div>
+        <div style="font-size: 32px; font-weight: bold; color: #ffffff; margin-bottom: 4px;">130/3821</div>
+        
+        <div style="margin-top: 10px; display: flex; align-items: center; color: #3fc46e; font-size: 14px;">
+            <span style="color: #3fc46e; margin-right: 5px;">✔</span> 130 Solved
+            <span style="color: #8b949e; margin-left: 15px;">0 Attempting</span>
+        </div>
+        
+        <div style="margin-top: 20px;">
+            <div style="color: #00b8a3; font-size: 14px; margin-bottom: 4px;">Easy</div>
+            <div style="font-size: 18px; font-weight: bold; color: #ffffff;">109/922</div>
+            
+            <div style="color: #ffa116; font-size: 14px; margin-top: 10px; margin-bottom: 4px;">Med.</div>
+            <div style="font-size: 18px; font-weight: bold; color: #ffffff;">15/1996</div>
+            
+            <div style="color: #ef4743; font-size: 14px; margin-top: 10px; margin-bottom: 4px;">Hard</div>
+            <div style="font-size: 18px; font-weight: bold; color: #ffffff;">6/903</div>
+        </div>
+    </div>
+</div>
+
+<!-- Divider -->
+<hr style="border: none; border-top: 1px solid #30363d; margin: 20px 0;">
+
+<!-- Locked Badge -->
+<div style="background: #161b22; padding: 10px 15px; border-radius: 6px; margin-bottom: 20px; display: flex; align-items: center;">
+    <div style="color: #8b949e; font-size: 14px; margin-right: 10px;">🔒</div>
+    <div>
+        <div style="color: #c9d1d9; font-size: 14px;">Locked Badge</div>
+        <div style="color: #8b949e; font-size: 12px;">Jan LeetCode Challenge</div>
+    </div>
+</div>
+
+<!-- Activity Stats -->
+<div style="margin-bottom: 15px;">
+    <div style="color: #c9d1d9; font-size: 14px; text-align: center; margin-bottom: 10px;">
+        <strong>214 submissions in the past one year</strong><br/>
+        <span style="color: #8b949e;">Total active days: 22</span> | 
+        <span style="color: #8b949e;">Max streak: 19</span> | 
+        <span style="color: #3fc46e;">Current</span>
+    </div>
+</div>
+
+<!-- Heatmap -->
+<div style="margin-bottom: 15px;">
+    <div style="color: #8b949e; font-size: 13px; margin-bottom: 8px;">Heatmap (Last 52 Weeks)</div>
+    <div style="display: flex; align-items: center; gap: 5px; margin-bottom: 10px;">
+        <!-- Month Labels -->
+        <div style="width: 30px; color: #8b949e; font-size: 11px; text-align: right; padding-right: 5px;">
+            Feb<br/>Mar<br/>Apr<br/>May<br/>Jun<br/>Jul<br/>Aug<br/>Sep<br/>Oct<br/>Nov<br/>Dec<br/>Jan
+        </div>
+        
+        <!-- Heatmap Grid -->
+        <div style="display: grid; grid-template-columns: repeat(52, 8px); grid-template-rows: repeat(7, 8px); gap: 2px;">
+            <!-- Generating 52x7 heatmap cells (364 cells) -->
+            <div style="width: 8px; height: 8px; background: #161b22; border-radius: 2px;"></div>
+            <div style="width: 8px; height: 8px; background: #0e4429; border-radius: 2px;"></div>
+            <div style="width: 8px; height: 8px; background: #006d32; border-radius: 2px;"></div>
+            <div style="width: 8px; height: 8px; background: #26a641; border-radius: 2px;"></div>
+            <div style="width: 8px; height: 8px; background: #39d353; border-radius: 2px;"></div>
+            <!-- ... (more cells would be here for full heatmap) -->
+        </div>
+    </div>
+</div>
+
+<!-- Heatmap Legend -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; color: #8b949e; font-size: 11px;">
+    <span>Less</span>
+    <div style="display: flex; gap: 3px;">
+        <div style="width: 10px; height: 10px; background: #161b22; border-radius: 2px;"></div>
+        <div style="width: 10px; height: 10px; background: #0e4429; border-radius: 2px;"></div>
+        <div style="width: 10px; height: 10px; background: #006d32; border-radius: 2px;"></div>
+        <div style="width: 10px; height: 10px; background: #26a641; border-radius: 2px;"></div>
+        <div style="width: 10px; height: 10px; background: #39d353; border-radius: 2px;"></div>
+    </div>
+    <span>More</span>
+</div>
+
+</div>
+
+</div>
 
 ```txt
 Java Advanced
