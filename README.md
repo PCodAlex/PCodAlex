@@ -84,40 +84,6 @@
 
 
 
-**Style 4: Modern Badge Grid**
-```md
-# Skills
-
-- **Advanced**
-  - Dynamic Programming (x10)
-  - Divide and Conquer (x6)
-  - Backtracking (x2)
-  - Monotonic Stack (x2)
-  - Game Theory (x1)
-  - Sweep Line (x1)
-  - Quickselect (x1)
-  - Trie (x1)
-
-- **Intermediate**
-  - Hash Table (x24)
-  - Math (x23)
-  - Bit Manipulation (x16)
-  - Tree (x15)
-  - Binary Tree (x15)
-  - Binary Search (x14)
-  - Depth-First Search (x14)
-  - Breadth-First Search (x9)
-
-- **Fundamental**
-  - Array (x45)
-  - String (x27)
-  - Two Pointers (x18)
-  - Sorting (x13)
-  - Stack (x9)
-  - Linked List (x9)
-  - Simulation (x7)
-  - Matrix (x4)
-
 > Every commit is a signal. Every project is a system. Every system tells a story.
 
 <p align="center">
