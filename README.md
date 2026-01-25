@@ -69,21 +69,11 @@ console.log("System initialized ⚡");
 ```
 <div align="center">
 
-# LeetCode Stats
+## 📊 LeetCode Stats
 
-**AkashSamanta**  
-#11,26,396  
-
-- **Easy**: 109 / 922  
-- **Medium**: 15 / 1996  
-- **Hard**: 6 / 903  
-
----
-
-### Heatmap (Last 52 Weeks)  
-
-2025.126  
-2026.125
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AkashSamanta?ranking=11,26,396?total-solved-text=130?easy-solved-count=109/922?medium-solved-count=15/1996?hard-solved-count=6/903?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 </div>
 ```txt
