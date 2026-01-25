@@ -67,21 +67,16 @@ console.log("System initialized ⚡");
   }
 ]
 ```
-# 📊 Coding Stats
+## 📊 LeetCode Stats
 
-**AkashSamanta**  
-#510237  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AkashSamanta?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
-- **Easy**: 70 / 922  
-- **Medium**: 154 / 1993  
-- **Hard**: 39 / 902  
-
----
-
-### 📅 Heatmap (Last 52 Weeks)  
-
-2025.126  
-2026.125
+**Total Solved:** 263  
+**Easy:** 70 | **Medium:** 154 | **Hard:** 39  
+**Rank:** #510,237  
+**Contests:** 2025.126 | 2026.125
 
 ```txt
 Java Advanced
