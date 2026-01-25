@@ -72,7 +72,7 @@ console.log("System initialized ⚡");
 ## 📊 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AkashSamanta?ranking=11,26,396?total-solved-text=130?easy-solved-count=109/922?medium-solved-count=15/1996?hard-solved-count=6/903?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/AkashSamanta?theme=dark&font=Karma&ext=heatmap&ranking=11,26,396&total-solved-text=130&easy-solved-count=109&medium-solved-count=15&hard-solved-count=6" alt="LeetCode Stats" />
 </p>
 
 </div>
