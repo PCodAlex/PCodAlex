@@ -1,26 +1,5 @@
 <p align="center">
-  <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#00c6ff;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#0072ff;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    
-    <!-- Robot Head -->
-    <rect x="300" y="50" width="200" height="150" rx="20" fill="url(#gradient)" stroke="#333" stroke-width="3"/>
-    <circle cx="350" cy="100" r="15" fill="#fff"/>
-    <circle cx="450" cy="100" r="15" fill="#fff"/>
-    <rect x="340" cy="130" width="120" height="10" rx="5" fill="#fff"/>
-    
-    <!-- Text -->
-    <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#fff" font-weight="bold">
-      Hey there 👋, I'm Akash Samanta
-    </text>
-    <text x="400" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#00FFAA">
-      🚀 Full-Stack Developer | 💻 Tech Enthusiast | 🤖 AI Powered | 🇮🇳 India
-    </text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=🤖%20Hey%20there%20👋,%20I'm%20Akash%20Samanta%20🤖&fontSize=50&animation=fadeIn&desc=🚀%20Full-Stack%20Developer%20|%20💻%20Tech%20Enthusiast%20|%20🤖%20AI%20Powered%20|%20🇮🇳%20India&descAlignY=70&descAlign=50" alt="Header" />
 </p>
 
 <p align="center">
