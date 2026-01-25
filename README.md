@@ -67,6 +67,16 @@ console.log("System initialized ⚡");
   }
 ]
 ```
+## 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AkashSamanta?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+**Total Solved:** 263  
+**Easy:** 70 | **Medium:** 154 | **Hard:** 39  
+**Rank:** #510,237  
+**Contests:** 2025.126 | 2026.125
 
 ```txt
 Java Advanced
@@ -86,10 +96,6 @@ Backend Architecture
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&text=LIVE%20BUILD%20MODE%20⚡&fontSize=35" />
 </p>
 
 <!-- GAME ANIMATION SECTION -->
