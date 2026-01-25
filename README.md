@@ -69,24 +69,9 @@ console.log("System initialized ⚡");
 ```
 ## 📊 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/AkashSamanta?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-**Contest Rating:** 1,416  
-**Global Ranking:** 11,26,396 (619,584/818,912)  
-**Top:** 76.08%  
-**Attended:** 1 contest (Jan 2026)  
-
-**Problems Solved:** 130/3821  
-**Easy:** 109/922  
-**Medium:** 15/1996  
-**Hard:** 6/903  
-
-**Badges:** 0 (🔒 Jan LeetCode Challenge)  
-**Activity:** 214 submissions in past year  
-**Active Days:** 22  
-**Max Streak:** 19
+![LeetCode Rating](https://img.shields.io/badge/Rating-1,416-ffa116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Solved-130/3821-00b8a3?style=for-the-badge)
+![Global Rank](https://img.shields.io/badge/Rank-11,26,396-8a2be2?style=for-the-badge)
 
 ```txt
 Java Advanced
