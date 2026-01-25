@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0f2027,100:2c5364&text=PCodAlex&fontSize=65&fontAlign=50&desc=⚡%20Live%20AI%20Developer%20Dashboard%20|%20Code%20Architect&descAlignY=82&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20there%20👋,%20I'm%20Akash%20Samanta&textBg=false&reversal=false&animation=twinkling&desc=🚀%20Full-Stack%20Developer%20|%20📚%20Tech%20enthousiast%20|%20🔧%20Ai%20Powered%20|%20🇮🇳%20India&fontAlign=50&descAlignY=83&fontSize=50" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=💻+Software+Developer;🧠+AI+%7C+Backend+%7C+System+Design;🚀+Building+Scalable+Products;🔥+Live+GitHub+AI+Dashboard;⚡+Code.+Break.+Learn.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=30&pause=1000&color=00F771&center=true&vCenter=true&random=true&width=800&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full-Stack+Developer+%26+Tech+Mentor++;%F0%9F%9A%80+Flutter+%7C+Node.js+%7C+MongoDB+Specialist++;%F0%9F%92%A1+Founder+of+The+Syntax+%E2%80%93+Real+World+Builders+;%F0%9F%93%A6+Shipping+Products+that+Actually+Scale;%F0%9F%A4%9D+Let's+Collaborate+and+Innovate!" alt="Typing SVG" />
 </p>
 
+
+### 🧠 `about-me.js`
 ```js
 const PCodAlex = {
   role: "Software Developer",
