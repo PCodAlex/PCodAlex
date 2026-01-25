@@ -94,29 +94,5 @@ Backend Architecture
 
 <!-- GAME ANIMATION SECTION -->
 <div align="center">
-  
-  ### 🎮 **Live Code Animation**
-  
-  ```javascript
-  // ░█▀▀░█▀█░█▀█░█▀▀░█▀▄░█▀▀░█▀▀░█▀▀
-  // ░█░░░█░█░█░█░█▀▀░█▀▄░▀▀█░█▀▀░▀▀█
-  // ░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀▀▀
-  
-  while (true) {
-    const lines = [
-      "█░░░█▄░▄█░█▀▀░█▀█",
-      "█░░░█░█░█░█▀▀░█░█",
-      "▀▀▀░▀░░▀░▀▀▀░▀░▀",
-      "░█▀▀░█▀█░█░░░█▀▀",
-      "░█░░░█░█░█░░░█▀▀",
-      "░▀▀▀░▀▀▀░▀▀▀░▀░░"
-    ];
-    
-    for (let line of lines) {
-      console.log(line);
-      await sleep(100);
-    }
-  }
-  ```
-  
-  <img src="https://raw.githubusercontent.com/akash/akash/snake/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
+</div>
