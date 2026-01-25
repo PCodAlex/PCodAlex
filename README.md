@@ -90,21 +90,69 @@ Backend Architecture
   <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&text=LIVE%20BUILD%20MODE%20⚡&fontSize=35" />
 </p>
 
-<!-- GitHub Contributions Calendar -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PCodAlex&theme=tokyonight&utcOffset=5.5" alt="Contributions Calendar" />
-</p>
+<!-- GAME ANIMATION SECTION -->
+<div align="center">
+  
+  ### 🎮 **Live Code Animation**
+  
+  ```javascript
+  // ░█▀▀░█▀█░█▀█░█▀▀░█▀▄░█▀▀░█▀▀░█▀▀
+  // ░█░░░█░█░█░█░█▀▀░█▀▄░▀▀█░█▀▀░▀▀█
+  // ░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀▀▀
+  
+  while (true) {
+    const lines = [
+      "█░░░█▄░▄█░█▀▀░█▀█",
+      "█░░░█░█░█░█▀▀░█░█",
+      "▀▀▀░▀░░▀░▀▀▀░▀░▀",
+      "░█▀▀░█▀█░█░░░█▀▀",
+      "░█░░░█░█░█░░░█▀▀",
+      "░▀▀▀░▀▀▀░▀▀▀░▀░░"
+    ];
+    
+    for (let line of lines) {
+      console.log(line);
+      await sleep(100);
+    }
+  }
+  ```
+  
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
+  
+  <!-- Matrix Rain Animation -->
+  <pre align="center" style="background: #000; color: #0F0; padding: 10px; border-radius: 5px;">
+  <code>
+  🎮 <span style="color: #0FF;">GAME MODE: ACTIVE</span>
+  
+  01001000 01100101 01101100 01101100 01101111 
+  01010111 01101111 01110010 01101100 01100100
+  
+  █░░█ █▀▀█ █░░ █░░ ░▀░ █▀▀▄ █▀▀█ 
+  █▄▄█ █▄▄▀ █░░ █░░ ▀█▀ █░░█ █▄▄▀ 
+  ▄▄▄█ ▀░▀▀ ▀▀▀ ▀▀▀ ▀▀▀ ▀░░▀ ▀░▀▀
+  
+  ╔════════════════════════════════╗
+  ║  SCORE: ∞      LEVEL: GOD      ║
+  ║  LIVES: ♥♥♥    CODE: ACTIVE    ║
+  ╚════════════════════════════════╝
+  </code>
+  </pre>
+  
+  <!-- Animated Pacman -->
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ms_blue_square.svg" width="20" style="animation: blink 1s infinite;" />
+    <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" width="20" />
+    <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" width="20" />
+    <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" width="20" />
+    <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" width="20" />
+    <span style="color: #FF0;">C</span><span style="color: #0F0;">o</span><span style="color: #0FF;">d</span><span style="color: #F0F;">e</span> <span style="color: #FF0;">E</span><span style="color: #0F0;">a</span><span style="color: #0FF;">t</span><span style="color: #F0F;">e</span><span style="color: #FF0;">r</span>
+  </div>
+  
+</div>
 
-<!-- GitHub Activity Calendar - This is the actual contribution calendar -->
-<p align="center">
-  <img src="https://github-readme-activity-calendar.vercel.app/api?username=PCodAlex&theme=tokyo-night&custom_title=GitHub%20Contribution%20Calendar&hide_border=true&count_private=true" alt="GitHub Contribution Calendar" width="90%" />
-</p>
-
-<!-- Optional: GitHub Contribution Chart -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PCodAlex/PCodAlex/main/profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PCodAlex/PCodAlex/main/profile-3d-contrib/profile-south-america.svg">
-    <img src="https://raw.githubusercontent.com/PCodAlex/PCodAlex/main/profile-3d-contrib/profile-south-america.svg" alt="3D Contribution Graph" width="100%">
-  </picture>
-</p>
+<style>
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.3; }
+  }
+</style>
