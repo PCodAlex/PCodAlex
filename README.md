@@ -139,22 +139,3 @@ Backend Architecture
   ╚════════════════════════════════╝
   </code>
   </pre>
-  
-  <!-- Animated Pacman -->
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ms_blue_square.svg" width="20" style="animation: blink 1s infinite;" />
-    <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" width="20" />
-    <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" width="20" />
-    <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" width="20" />
-    <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" width="20" />
-    <span style="color: #FF0;">C</span><span style="color: #0F0;">o</span><span style="color: #0FF;">d</span><span style="color: #F0F;">e</span> <span style="color: #FF0;">E</span><span style="color: #0F0;">a</span><span style="color: #0FF;">t</span><span style="color: #F0F;">e</span><span style="color: #FF0;">r</span>
-  </div>
-  
-</div>
-
-<style>
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.3; }
-  }
-</style>
