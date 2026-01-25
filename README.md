@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20there%20👋,%20I'm%20Akash%20Samanta&textBg=false&reversal=false&animation=twinkling&desc=🚀%20Full-Stack%20Developer%20|%20📚%20Tech%20enthousiast%20|%20🔧%20Ai%20Powered%20|%20🇮🇳%20India&fontAlign=50&descAlignY=83&fontSize=50" alt="Header" />
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=🤖+Hey+there+👋+I'm+Akash+Samanta" alt="Typing Header" />
+    <br/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer+%7C+💻+Tech+Enthusiast+%7C+🤖+AI+Powered+%7C+🇮🇳+India" alt="Description" />
+  </div>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=30&pause=1000&color=00F771&center=true&vCenter=true&random=true&width=800&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full-Stack+Developer+%26+Tech+Mentor++;%F0%9F%9A%80+Flutter+%7C+Node.js+%7C+MongoDB+Specialist++;%F0%9F%92%A1+Founder+of+The+Syntax+%E2%80%93+Real+World+Builders+;%F0%9F%93%A6+Shipping+Products+that+Actually+Scale;%F0%9F%A4%9D+Let's+Collaborate+and+Innovate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=30&pause=1000&color=00F771&center=true&vCenter=true&random=true&width=800&lines=%F0%9F%92%BB+Full+Stack+Developer++;%F0%9F%8E%93+Java+%2B+Spring+%26+Spring+Boot+Development++;%F0%9F%93%88+MongoDB+%2B+Express+%2B+React+%2B+Node.js+Development++;%F0%9F%9B%8C%EF%B8%8F+DevOps+Cloud+Engineer(AWS+%2B+Maven+%2B+Github+%2B+Docker+%2B+Kubernetes+%2B+Ansible+%2B+Mobaxterm)" alt="Typing SVG" />
 </p>
 
 
