@@ -67,46 +67,25 @@ console.log("System initialized ⚡");
   }
 ]
 ```
-## 📊 LeetCode Stats
+<div align="center">
 
-### Contest Rating
-**1,416**  
-**Global Ranking:** 619,584/818,912  
-**Attended:** 1  
-**Last Contest:** Jan 2026
+# LeetCode Stats
 
----
+**AkashSamanta**  
+#11,26,396  
 
-### Top Performance
-**76.08%**
+- **Easy**: 109 / 922  
+- **Medium**: 15 / 1996  
+- **Hard**: 6 / 903  
 
 ---
 
-### Badges
-**0**
+### Heatmap (Last 52 Weeks)  
 
----
+2025.126  
+2026.125
 
-### Problems Solved
-**130/3821**  
-✅ **Solved:** 130  
-⏳ **Attempting:** 0
-
-**Easy:** 109/922  
-**Medium:** 15/1996  
-**Hard:** 6/903
-
----
-
-### Activity
-**214 submissions** in the past one year  
-**Total active days:** 22  
-**Max streak:** 19  
-**Current streak:** Active
-
-**Monthly Activity:**  
-Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec | Jan
-
+</div>
 ```txt
 Java Advanced
 Python for AI
