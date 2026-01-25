@@ -72,7 +72,7 @@ console.log("System initialized ⚡");
 ## 📊 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AkashaAyush?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/AkashSamanto?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 </div>
