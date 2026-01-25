@@ -82,42 +82,47 @@
   <img src="https://leetcard.jacoblin.cool/AkashSamanto?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
+
+**Style 2: Circular Progress**
+```md
+## 💻 Languages & Skills
+
 ### Languages
-![Java](https://img.shields.io/badge/Java-118_problems_solved-ED8B00?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-6_problems_solved-4479A1?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-6_problems_solved-F7DF1E?style=flat-square&logoColor=black)
+🟡 **Java** ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫ (118)  
+🔵 **MySQL** ⚫⚫⚫⚫⚫⚫ (6)  
+🟢 **JavaScript** ⚫⚫⚫⚫⚫⚫ (6)
 
 ### Skills
 
 #### Advanced
-![Dynamic Programming](https://img.shields.io/badge/Dynamic_Programming-x10-00B8A3?style=flat-square)
-![Divide and Conquer](https://img.shields.io/badge/Divide_and_Conquer-x6-FFA116?style=flat-square)
-![Backtracking](https://img.shields.io/badge/Backtracking-x2-8A2BE2?style=flat-square)
-![Monotonic Stack](https://img.shields.io/badge/Monotonic_Stack-x2-9370DB?style=flat-square)
-![Game Theory](https://img.shields.io/badge/Game_Theory-x1-FF69B4?style=flat-square)
-![Sweep Line](https://img.shields.io/badge/Sweep_Line-x1-32CD32?style=flat-square)
-![Quickselect](https://img.shields.io/badge/Quickselect-x1-FF4500?style=flat-square)
-![Trie](https://img.shields.io/badge/Trie-x1-00CED1?style=flat-square)
+• 🔴 **Dynamic Programming** (x10) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
+• 🟠 **Divide and Conquer** (x6) ⚫⚫⚫⚫⚫⚫  
+• 🟡 **Backtracking** (x2) ⚫⚫  
+• 🟢 **Monotonic Stack** (x2) ⚫⚫  
+• 🔵 **Game Theory** (x1) ⚫  
+• 🟣 **Sweep Line** (x1) ⚫  
+• 🟤 **Quickselect** (x1) ⚫  
+• ⚫ **Trie** (x1) ⚫  
 
 #### Intermediate
-![Hash Table](https://img.shields.io/badge/Hash_Table-x24-FFA500?style=flat-square)
-![Math](https://img.shields.io/badge/Math-x23-4169E1?style=flat-square)
-![Bit Manipulation](https://img.shields.io/badge/Bit_Manipulation-x16-8B4513?style=flat-square)
-![Tree](https://img.shields.io/badge/Tree-x15-228B22?style=flat-square)
-![Binary Tree](https://img.shields.io/badge/Binary_Tree-x15-32CD32?style=flat-square)
-![Binary Search](https://img.shields.io/badge/Binary_Search-x14-D2691E?style=flat-square)
-![Depth-First Search](https://img.shields.io/badge/Depth--First_Search-x14-9932CC?style=flat-square)
-![Breadth-First Search](https://img.shields.io/badge/Breadth--First_Search-x9-FF1493?style=flat-square)
+• 🔴 **Hash Table** (x24) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
+• 🟠 **Math** (x23) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
+• 🟡 **Bit Manipulation** (x16) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
+• 🟢 **Tree** (x15) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
+• 🔵 **Binary Tree** (x15) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
+• 🟣 **Binary Search** (x14) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
+• 🟤 **Depth-First Search** (x14) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
+• ⚫ **Breadth-First Search** (x9) ⚫⚫⚫⚫⚫⚫⚫⚫⚫  
 
 #### Fundamental
-![Array](https://img.shields.io/badge/Array-x45-FF6347?style=flat-square)
-![String](https://img.shields.io/badge/String-x27-00BFFF?style=flat-square)
-![Two Pointers](https://img.shields.io/badge/Two_Pointers-x18-FFD700?style=flat-square)
-![Sorting](https://img.shields.io/badge/Sorting-x13-9370DB?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-x9-20B2AA?style=flat-square)
-![Linked List](https://img.shields.io/badge/Linked_List-x9-FF69B4?style=flat-square)
-![Simulation](https://img.shields.io/badge/Simulation-x7-32CD32?style=flat-square)
-![Matrix](https://img.shields.io/badge/Matrix-x4-FF4500?style=flat-square)
+• 🔴 **Array** (x45) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
+• 🟠 **String** (x27) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
+• 🟡 **Two Pointers** (x18) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
+• 🟢 **Sorting** (x13) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
+• 🔵 **Stack** (x9) ⚫⚫⚫⚫⚫⚫⚫⚫⚫  
+• 🟣 **Linked List** (x9) ⚫⚫⚫⚫⚫⚫⚫⚫⚫  
+• 🟤 **Simulation** (x7) ⚫⚫⚫⚫⚫⚫⚫  
+• ⚫ **Matrix** (x4) ⚫⚫⚫⚫
 
 > Every commit is a signal. Every project is a system. Every system tells a story.
 
