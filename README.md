@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:141e30,100:243b55&text=Neural%20Mode%20ON&fontSize=55&desc=🧠%20Machine%20Learning%20|%20🤖%20AI%20|%20⚙️%20Automation&descAlignY=85&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20there%20👋,%20I'm%20Akash%20Samanta&textBg=false&reversal=false&animation=twinkling&desc=🚀%20Full-Stack%20Developer%20|%20💻%20Tech%20Enthusiast%20|%20🤖%20AI%20Powered%20|%20🇮🇳%20India&fontAlign=50&descAlignY=83&fontSize=50" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=30&pause=1000&color=00F771&center=true&vCenter=true&random=true&width=800&lines=%F0%9F%92%BB+Full+Stack+Developer++;%F0%9F%8E%93+Java+%2B+Spring+%26+Spring+Boot+Development++;%F0%9F%93%88+MongoDB+%2B+Express+%2B+React+%2B+Node.js+Development++;%F0%9F%9B%8C%EF%B8%8F+DevOps+Cloud+Engineer(AWS+%2B+Maven+%2B+Github+%2B+Docker+%2B+Kubernetes+%2B+Ansible+%2B+Mobaxterm)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=30&pause=1000&color=00F771&center=true&vCenter=true&random=true&width=800&lines=%F0%9F%92%BB+Full+Stack+Developer++;%F0%9F%8E%93+Java+%2B+Spring+%26+Spring+Boot+Development++;%F0%9F%93%88+MongoDB+%2B+Express+%2B+React+%2B+Node.js+Development++;%F0%9F%92%BB+DevOps+Engineer++;%F0%9F%8C%8D+Cloud+Engineer(AWS)" alt="Typing SVG" />
 </p>
 
 
