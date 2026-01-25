@@ -6,24 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=30&pause=1000&color=00F771&center=true&vCenter=true&random=true&width=800&lines=%F0%9F%92%BB+Full+Stack+Developer++;%F0%9F%8E%93+Java+%2B+Spring+%26+Spring+Boot+Development++;%F0%9F%93%88+MongoDB+%2B+Express+%2B+React+%2B+Node.js+Development++;%F0%9F%92%BB+DevOps+Engineer++;%F0%9F%8C%8D+Cloud+Engineer(AWS)" alt="Typing SVG" />
 </p>
 
-
-### 🧠 `about-me.js`
-```js
-const PCodAlex = {
-  role: "Software Developer",
-  location: "India 🇮🇳",
-  mission: "Turn ideas into scalable real-world systems",
-  focus: ["AI", "Backend", "Full Stack", "DSA", "Automation"],
-  philosophy: "Build fast. Learn faster. Ship smartest."
-};
-
-console.log("System initialized ⚡");
-```
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PCodAlex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
 ### Programming Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
