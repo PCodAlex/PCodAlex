@@ -1,9 +1,26 @@
 <p align="center">
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=🤖+Hey+there+👋+I'm+Akash+Samanta" alt="Typing Header" />
-    <br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer+%7C+💻+Tech+Enthusiast+%7C+🤖+AI+Powered+%7C+🇮🇳+India" alt="Description" />
-  </div>
+  <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#00c6ff;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#0072ff;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    
+    <!-- Robot Head -->
+    <rect x="300" y="50" width="200" height="150" rx="20" fill="url(#gradient)" stroke="#333" stroke-width="3"/>
+    <circle cx="350" cy="100" r="15" fill="#fff"/>
+    <circle cx="450" cy="100" r="15" fill="#fff"/>
+    <rect x="340" cy="130" width="120" height="10" rx="5" fill="#fff"/>
+    
+    <!-- Text -->
+    <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#fff" font-weight="bold">
+      Hey there 👋, I'm Akash Samanta
+    </text>
+    <text x="400" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#00FFAA">
+      🚀 Full-Stack Developer | 💻 Tech Enthusiast | 🤖 AI Powered | 🇮🇳 India
+    </text>
+  </svg>
 </p>
 
 <p align="center">
