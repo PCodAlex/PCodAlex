@@ -67,27 +67,89 @@ console.log("System initialized ⚡");
   }
 ]
 ```
-## 🏆 LeetCode Stats
+<div align="center" style="border: 2px solid #ffa116; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); width: fit-content; margin: 0 auto;">
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/AkashSamanta?theme=dark&font=Karma&ext=contest&ext=heatmap" alt="LeetCode Stats" />
-</p>
+### <span style="color: #ffa116">📊 LeetCode Stats</span>
 
-**Contest Rating:** 1,416  
-**Global Ranking:** 619,584/818,912  
-**Attended Contests:** 1  
-**Top Percentile:** 76.08%  
-**Badges:** 0  
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="border-right: 1px solid #30363d; padding: 15px; text-align: center; vertical-align: top;">
+      <span style="color: #ffa116; font-size: 18px; font-weight: bold;">Contest Rating</span><br/>
+      <span style="font-size: 28px; font-weight: bold; color: #ffffff;">1,416</span><br/>
+      <span style="color: #8b949e;">Global Ranking</span><br/>
+      <span style="color: #ffffff;">619,584/818,912</span><br/>
+      <span style="color: #8b949e;">Attended</span><br/>
+      <span style="color: #ffffff;">1</span><br/>
+      <span style="color: #8b949e;">Jan 2026</span>
+    </td>
+    <td style="border-right: 1px solid #30363d; padding: 15px; text-align: center; vertical-align: top;">
+      <span style="color: #ffa116; font-size: 18px; font-weight: bold;">Top</span><br/>
+      <span style="font-size: 28px; font-weight: bold; color: #ffffff;">76.08%</span>
+    </td>
+    <td style="padding: 15px; text-align: center; vertical-align: top;">
+      <span style="color: #ffa116; font-size: 18px; font-weight: bold;">Badges</span><br/>
+      <span style="font-size: 28px; font-weight: bold; color: #ffffff;">0</span>
+    </td>
+  </tr>
+</table>
 
-**Problems Solved:** 130/3821  
-**Easy:** 109/922  
-**Medium:** 15/1996  
-**Hard:** 6/903  
+<hr style="border: 1px solid #30363d; margin: 20px 0;">
 
-**Activity:** 214 submissions in past year  
-**Active Days:** 22  
-**Max Streak:** 19  
-**Locked Badge:** Jan LeetCode Challenge 🔒
+<div style="text-align: center; margin-bottom: 20px;">
+  <span style="color: #ffa116; font-size: 20px; font-weight: bold;">130/3821</span><br/>
+  <span style="color: #3fc46e;">✔ Solved</span>
+  <span style="color: #8b949e; margin-left: 20px;">0 Attempting</span>
+</div>
+
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <td style="padding: 10px; text-align: center;">
+      <span style="color: #00b8a3;">Easy</span><br/>
+      <span style="font-size: 20px; font-weight: bold; color: #ffffff;">109/922</span>
+    </td>
+    <td style="padding: 10px; text-align: center;">
+      <span style="color: #ffa116;">Med.</span><br/>
+      <span style="font-size: 20px; font-weight: bold; color: #ffffff;">15/1996</span>
+    </td>
+    <td style="padding: 10px; text-align: center;">
+      <span style="color: #ef4743;">Hard</span><br/>
+      <span style="font-size: 20px; font-weight: bold; color: #ffffff;">6/903</span>
+    </td>
+  </tr>
+</table>
+
+<div style="background: #30363d; padding: 10px; border-radius: 5px; margin-bottom: 20px; text-align: center;">
+  <span style="color: #8b949e;">🔒 Locked Badge</span><br/>
+  <span style="color: #ffffff;">Jan LeetCode Challenge</span>
+</div>
+
+<hr style="border: 1px solid #30363d; margin: 20px 0;">
+
+<div style="text-align: center;">
+  <div style="color: #ffffff; font-size: 16px; margin-bottom: 10px;">
+    <strong>214 submissions in the past one year</strong><br/>
+    <span style="color: #8b949e;">Total active days: 22</span> | 
+    <span style="color: #8b949e;">Max streak: 19</span> | 
+    <span style="color: #3fc46e;">Current</span>
+  </div>
+  
+  <div style="font-family: monospace; color: #8b949e; font-size: 12px; margin-top: 15px;">
+    Feb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+    Mar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+    Apr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+    May&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+    Jun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+    Jul&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+    Aug&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+    Sep&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+    Oct&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+    Nov&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+    Dec&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+    Jan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
+</div>
+
+</div>
 
 ```txt
 Java Advanced
