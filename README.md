@@ -82,9 +82,6 @@
   <img src="https://leetcard.jacoblin.cool/AkashSamanto?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-
-## 💻 Languages & Skills
-
 ### Languages
 ![Java](https://img.shields.io/badge/Java-118_problems_solved-ED8B00?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-6_problems_solved-4479A1?style=flat-square)
