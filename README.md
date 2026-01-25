@@ -83,46 +83,47 @@
 </p>
 
 
-**Style 2: Circular Progress**
+
+**Style 4: Modern Badge Grid**
 ```md
 ## 💻 Languages & Skills
 
 ### Languages
-🟡 **Java** ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫ (118)  
-🔵 **MySQL** ⚫⚫⚫⚫⚫⚫ (6)  
-🟢 **JavaScript** ⚫⚫⚫⚫⚫⚫ (6)
+<span style="background:#f0ad4e;color:white;padding:2px 8px;border-radius:12px;font-weight:bold;">Java 118</span>
+<span style="background:#5bc0de;color:white;padding:2px 8px;border-radius:12px;font-weight:bold;">MySQL 6</span>
+<span style="background:#f0e130;color:black;padding:2px 8px;border-radius:12px;font-weight:bold;">JavaScript 6</span>
 
 ### Skills
 
 #### Advanced
-• 🔴 **Dynamic Programming** (x10) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
-• 🟠 **Divide and Conquer** (x6) ⚫⚫⚫⚫⚫⚫  
-• 🟡 **Backtracking** (x2) ⚫⚫  
-• 🟢 **Monotonic Stack** (x2) ⚫⚫  
-• 🔵 **Game Theory** (x1) ⚫  
-• 🟣 **Sweep Line** (x1) ⚫  
-• 🟤 **Quickselect** (x1) ⚫  
-• ⚫ **Trie** (x1) ⚫  
+<span style="background:#00b8a3;color:white;padding:2px 6px;border-radius:10px;">DP x10</span>
+<span style="background:#ffa116;color:white;padding:2px 6px;border-radius:10px;">D&C x6</span>
+<span style="background:#8a2be2;color:white;padding:2px 6px;border-radius:10px;">BT x2</span>
+<span style="background:#9370db;color:white;padding:2px 6px;border-radius:10px;">MS x2</span>
+<span style="background:#ff69b4;color:white;padding:2px 6px;border-radius:10px;">GT x1</span>
+<span style="background:#32cd32;color:white;padding:2px 6px;border-radius:10px;">SL x1</span>
+<span style="background:#ff4500;color:white;padding:2px 6px;border-radius:10px;">QS x1</span>
+<span style="background:#00ced1;color:white;padding:2px 6px;border-radius:10px;">Trie x1</span>
 
 #### Intermediate
-• 🔴 **Hash Table** (x24) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
-• 🟠 **Math** (x23) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
-• 🟡 **Bit Manipulation** (x16) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
-• 🟢 **Tree** (x15) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
-• 🔵 **Binary Tree** (x15) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
-• 🟣 **Binary Search** (x14) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
-• 🟤 **Depth-First Search** (x14) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
-• ⚫ **Breadth-First Search** (x9) ⚫⚫⚫⚫⚫⚫⚫⚫⚫  
+<span style="background:#ffa500;color:white;padding:2px 6px;border-radius:10px;">Hash x24</span>
+<span style="background:#4169e1;color:white;padding:2px 6px;border-radius:10px;">Math x23</span>
+<span style="background:#8b4513;color:white;padding:2px 6px;border-radius:10px;">Bit x16</span>
+<span style="background:#228b22;color:white;padding:2px 6px;border-radius:10px;">Tree x15</span>
+<span style="background:#32cd32;color:white;padding:2px 6px;border-radius:10px;">BTree x15</span>
+<span style="background:#d2691e;color:white;padding:2px 6px;border-radius:10px;">BS x14</span>
+<span style="background:#9932cc;color:white;padding:2px 6px;border-radius:10px;">DFS x14</span>
+<span style="background:#ff1493;color:white;padding:2px 6px;border-radius:10px;">BFS x9</span>
 
 #### Fundamental
-• 🔴 **Array** (x45) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
-• 🟠 **String** (x27) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
-• 🟡 **Two Pointers** (x18) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
-• 🟢 **Sorting** (x13) ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫  
-• 🔵 **Stack** (x9) ⚫⚫⚫⚫⚫⚫⚫⚫⚫  
-• 🟣 **Linked List** (x9) ⚫⚫⚫⚫⚫⚫⚫⚫⚫  
-• 🟤 **Simulation** (x7) ⚫⚫⚫⚫⚫⚫⚫  
-• ⚫ **Matrix** (x4) ⚫⚫⚫⚫
+<span style="background:#ff6347;color:white;padding:2px 6px;border-radius:10px;">Array x45</span>
+<span style="background:#00bfff;color:white;padding:2px 6px;border-radius:10px;">String x27</span>
+<span style="background:#ffd700;color:black;padding:2px 6px;border-radius:10px;">TP x18</span>
+<span style="background:#9370db;color:white;padding:2px 6px;border-radius:10px;">Sort x13</span>
+<span style="background:#20b2aa;color:white;padding:2px 6px;border-radius:10px;">Stack x9</span>
+<span style="background:#ff69b4;color:white;padding:2px 6px;border-radius:10px;">LL x9</span>
+<span style="background:#32cd32;color:white;padding:2px 6px;border-radius:10px;">Sim x7</span>
+<span style="background:#ff4500;color:white;padding:2px 6px;border-radius:10px;">Matrix x4</span>
 
 > Every commit is a signal. Every project is a system. Every system tells a story.
 
