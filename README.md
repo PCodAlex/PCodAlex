@@ -97,5 +97,6 @@
 
 <!-- GAME ANIMATION SECTION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
+  <img src="https://raw.githubusercontent.com/AkashSamanta/AkashSamanta/snake/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
 </div>
+
