@@ -97,6 +97,6 @@
 
 <!-- GAME ANIMATION SECTION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PCodAlex/PCodAlex/snake/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake.svg" />
 </div>
 
