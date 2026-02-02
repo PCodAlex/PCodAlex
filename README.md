@@ -99,6 +99,6 @@ json
 <!-- <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake.svg" />
 </div> -->
-<!-- <p align="center">
+<p align="center">
   <img src="assets/space-shooter.gif" alt="Space Shooter Game" />
-</p> -->
+</p> 
